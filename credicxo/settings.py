@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # SECURITY WARNING: keep the secret key used in production secret!
 # SECRET_KEY = os.environ.get('BLOG_KEY')
-SECRET_KEY = '1234567890'
+SECRET_KEY = '5(7g^ih_urrkbindh^-%u54o60jsdgpb*nd7j!9y1xo^+c1rx8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
