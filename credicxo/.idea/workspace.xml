@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b82e0f1-ecd7-42db-87de-a4f4003f8bdc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aLEmNg8NxTY5E08p3E6VexmAe4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ifsc_app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ifsc_app/static/css" />
+      <recent name="$PROJECT_DIR$/ifsc_app/static" />
+      <recent name="$PROJECT_DIR$/ifsc_app/templates/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.corey">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="credicxo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/abhi/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="corey" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="credicxo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ifsc_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/corey.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.corey" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.corey" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b82e0f1-ecd7-42db-87de-a4f4003f8bdc" name="Default Changelist" comment="" />
+      <created>1586506631595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586506631595</updated>
+    </task>
+    <task id="LOCAL-00001" summary="small change">
+      <created>1586612740986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586612740986</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="small change" />
+    <option name="LAST_COMMIT_MESSAGE" value="small change" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="173" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586506689761">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="173" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1301.744@65.24.1301.744" timestamp="1586506689761" />
+    <state x="733" y="257" width="604" height="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586607816479">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="733" y="257" width="604" height="360" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1301.744@65.24.1301.744" timestamp="1586607816479" />
+    <state x="575" y="24" width="781" height="742" key="CommitChangelistDialog2" timestamp="1586612740218">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="575" y="24" width="781" height="742" key="CommitChangelistDialog2/65.24.1301.744@65.24.1301.744" timestamp="1586612740218" />
+    <state x="173" y="196" width="424" height="454" key="FileChooserDialogImpl" timestamp="1586618862858">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="173" y="196" width="424" height="454" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1586618862858" />
+    <state width="627" height="176" key="GridCell.Tab.0.bottom" timestamp="1586618864867">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="627" height="176" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1586618864867" />
+    <state width="627" height="176" key="GridCell.Tab.0.center" timestamp="1586618864866">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="627" height="176" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1586618864866" />
+    <state width="627" height="176" key="GridCell.Tab.0.left" timestamp="1586618864864">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="627" height="176" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1586618864864" />
+    <state width="627" height="176" key="GridCell.Tab.0.right" timestamp="1586618864866">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="627" height="176" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1586618864866" />
+    <state x="815" y="124" width="450" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586507988649">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="815" y="124" width="450" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/65.24.1301.744@65.24.1301.744" timestamp="1586507988649" />
+    <state x="371" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1586528145312">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="371" y="251" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1586528145312" />
+  </component>
+</project>
