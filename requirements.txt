@@ -27,11 +27,11 @@ jupyterlab-server==1.0.7
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.0.2
-mistune==0.8.4
-mkl-fft==1.0.6
-mkl-random==1.0.2
-nbconvert==5.6.1
-nbformat==5.0.4
+
+
+
+
+
 notebook==6.0.3
 numpy==1.18.1
 pandas==1.0.2
