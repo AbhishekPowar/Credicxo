@@ -25,7 +25,7 @@ SECRET_KEY = '5(7g^ih_urrkbindh^-%u54o60jsdgpb*nd7j!9y1xo^+c1rx8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bankdjango.herokuapp.com']
 
 
 # Application definition
