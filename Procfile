@@ -1,1 +1,1 @@
-web: gunicorn credicxo.credicxo.wsgi
+web: gunicorn credicxo.wsgi
