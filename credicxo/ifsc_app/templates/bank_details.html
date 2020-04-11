@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{%for key,value in  order.items %}
+    {%if key == 'ifsc'%}
+        <h2>{{key|upper}} : {{value}}</h2>
+    {%else%}
+        <div class="block">
+        <h4><span class="key">{{key|upper}}</span>  : {{value}}</h4>
+        </div>
+            {%endif%}
+{%endfor%}
+{% endblock %}

@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{%if  page_obj%}
+    <h2><p>{{bankname|upper}} in {{city|title}}</p></h2>
+       <hr>
+
+    {% for bank in page_obj%}
+    <div class="block">
+    <a class="bankadrs" href="{{bank.ifsc}}">
+
+        <h4>{{bank.bank_name}}</h4>
+        <h4>{{bank.address}} </h4>
+    </a>
+    </div>
+    <hr>
+    {%endfor%}
+
+    {%include 'pagenav.html'%}
+
+{%else%}
+    <p>Sorry no matches</p>
+{%endif%}
+{% endblock %}
