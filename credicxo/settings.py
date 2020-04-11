@@ -80,18 +80,13 @@ DATABASES = {
     #     'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     # }
     'default': {
-
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-
         'NAME': 'bankdb',
-
-'USER': 'postgres',
-
-'PASSWORD': 'admin',
-
-
-
-}
+        'USER': 'postgres',
+        'PASSWORD': 'admin',
+        'HOST': 'localhost',
+        'PORT': '5432',
+    }
 }
 
 
