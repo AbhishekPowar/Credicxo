@@ -7,7 +7,7 @@ cycler==0.10.0
 Cython==0.29.15
 decorator==4.4.2
 defusedxml==0.6.0
-Django==3.0.3
+Django==3.1.13
 django-chartjs==2.0.0
 django-heroku==0.3.1
 djangorestframework==3.11.0
